@@ -167,3 +167,7 @@
 
 <hr>
 
+<p>Este sería el contenido en un principio del curso, pero es posible que durante la creación del mismo haya alteraciones y se añadan "subtemas" a algunos de los artículos del mismo, ya que durante la preparación del curso estoy viendo cosas en las que me gustaría profundizar un poco más.</p>
+<p>Con respecto al bloque 10, por ahora no es muy especifico porque estoy todavía preparando lo que serán los proyectos, pero os puedo asegurar que irán desde cosas básicas, como pueda ser "El juego del ahoracado", hasta temas bastante más avanzados de reconocimiento facial, que siempre es un programa interesante de aprender.</p>
+<p>Está página se irá actualizando a medida que se publiquen los temas, para poder usarla como punto de partida hacía todos los artículos del curso.</p>
+
