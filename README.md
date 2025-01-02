@@ -110,5 +110,23 @@
     </ul>
 </ol>
 
+### Bloque 7
+
+<ol>
+    <li>Programación Orientada a Objetos (POO).</li>
+    <li>Clases.</li>
+    <li>Atributos.</li>
+    <li>Métodos.</li>
+    <li>Tipos de métodos.</li>
+    <li>Herencia.</li>
+    <li>Herencia extendida.</li>
+    <li>Polimorfismo.</li>
+    <li>Métodos especiales.</li>
+    <li>Ejercicios Bloque 7.</li>
+    <ul>
+        <li>Resolución ejercios Bloque 7.</li>
+    </ul>
+</ol>
+
 
 
