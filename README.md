@@ -128,5 +128,21 @@
     </ul>
 </ol>
 
+### Bloque 8
+
+<ol>
+    <li>Instalar paquetes.</li>
+    <li>Módulos y paquetes.</li>
+    <li>Manejo de errores.</li>
+    <li>Buscar errores con PyLint</li>
+    <li>Probar código con UnitTest.</li>
+    <li>Decoradores.</li>
+    <li>Generadores.</li>
+    <li>Ejercicios Bloque 8.</li>
+    <ul>
+        <li>Resolución Ejercicios Bloque 8.</li>
+    </ul>
+</ol>
+
 
 
