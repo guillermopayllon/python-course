@@ -144,5 +144,20 @@
     </ul>
 </ol>
 
+### Bloque 9
+
+<ol>
+    <li>Módulo Collections.</li>
+    <li>Módulo OS y Shutil.</li>
+    <li>Módulo DateTime.</li>
+    <li>Módulo Math.</li>
+    <li>Módulo RE.</li>
+    <li>Comprimir y descomprimir archivos con Python.</li>
+    <li>Ejercicios Bloque 9.</li>
+    <ul>
+        <li>Resolución ejercicios Bloque 9</li>
+    </ul>
+</ol>
+
 
 
