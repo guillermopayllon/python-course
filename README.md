@@ -1,5 +1,5 @@
 # Curso de Python desde cero
-<p>Bienvenido a mi nuevo curso de Python desde cero, desde este mismo repositorio, podrás acceder a todo el código que veremos en los artículos de mi web <a href = "guillermoayllon.com/blog">Guillermo Ayllon</a>, como en los video explicativos de mi <a href = "https://www.youtube.com/@GuillermopAyllon">Canal de YouTube</a>.
+<p>Bienvenido a mi nuevo curso de Python desde cero, desde este mismo repositorio, podrás acceder a todo el código que veremos en los artículos de mi web <a href = "https://guillermoayllon.com/blog">Guillermo Ayllon</a>, como en los video explicativos de mi <a href = "https://www.youtube.com/@GuillermopAyllon">Canal de YouTube</a>.
 <p>Va a ser un curso bastante detallado sobre este lenguaje de programación, donde vamos a ver todo lo que necesitas para empezar a desarrollar desde aplicaciones básicas, hasta algunas más complejas, todo ello como te he comentado de artículos y videos explicativos.</p>
 <p>Os dejo el contenido del curso para que podáis ver todo lo que vamos a tratar, aunque todavía estoy planteandome profunidizar más en algunos temas, pero esto lo veremos sobre la marcha.</p>
 <p>El curso todavía no está en marcha, pero si queréis que os avise cuando comencemos, pasaros por mi web, y solo tenéis que dejar el correo, con eso estaréis informados de todo lo que se vaya publicando.</p>
@@ -21,5 +21,22 @@
     <ul>
         <li>Resolución ejercicios bloque 1.</li>
     <ul>
+</ol>
+
+### Bloque 2
+<ol>
+    <li>Tipos de datos.</li>
+    <li>Variables.</li>
+    <li>Los nombres de las variables.</li>
+    <li>Integers.</li>
+    <li>Floats.</li>
+    <li>Conversión entre tipos de datos.</li>
+    <li>Formatear cadenas (strings).</li>
+    <li>Operadores matemáticos.</li>
+    <li>Redondeo.</li>
+    <li>Ejercicios Bloque 2.</li>
+    <ul>
+        <li>Resolución Ejercicios Bloque 2.</li>
+    </ul>
 </ol>
 
