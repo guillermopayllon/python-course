@@ -78,5 +78,19 @@
     </ul>
 </ol>
 
+### Bloque 5
 
+<ol>
+    <li>Métodos.</li>
+    <li>Funciones.</li>
+    <li>Crear Funciones.</li>
+    <li>Return.</li>
+    <li>Funciones dinámicas.</li>
+    <li>Interacción entre funciones.</li>
+    <li>Argumentos indefinidos.</li>
+    <li>Ejercicios Bloque 5.</li>
+    <ul>
+        <li>Resolución Ejercios Bloque 5.</li>
+    </ul>
+</ol>
 
