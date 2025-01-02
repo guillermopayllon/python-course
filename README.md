@@ -94,3 +94,21 @@
     </ul>
 </ol>
 
+### Bloque 6
+
+<ol>
+    <li>Abrir y manipular archivos.</li>
+    <li>Crear y Escribir archivos.</li>
+    <li>Directorios.</li>
+    <li>Pathlib.</li>
+    <li>Path.</li>
+    <li>Limpiar Consola.</li>
+    <li>Archivos y Funciones.</li>
+    <li>Ejercicios Bloque 6.</li>
+    <ul>
+        <li>Resolución ejercicios Bloque 6.</li>
+    </ul>
+</ol>
+
+
+
