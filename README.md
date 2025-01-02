@@ -58,5 +58,25 @@
     </ul>
 </ol>
 
+### Bloque 4
+
+<ol>
+    <li>Operadores de comparación.</li>
+    <li>Operadores Lógicos.</li>
+    <li>Control de flujo.</li>
+    <li>Introducción a los Loops.</li>
+    <li>Loop for.</li>
+    <li>loop While.</li>
+    <li>Rangos.</li>
+    <li>Enumeradores.</li>
+    <li>Zip.</li>
+    <li>Min y Max.</li>
+    <li>Random.</li>
+    <li>Ejercicios Bloque 4.</li>
+    <ul>
+        <li>Resolución ejercicios Bloque 4.</li>
+    </ul>
+</ol>
+
 
 
